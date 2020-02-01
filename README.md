@@ -9,7 +9,9 @@ When the snake eats the apple it grows in length and continues to grow in length
 
 To die the snake has to either hit the border or touch itself. Players are given 3 lives after which the game is over and the player has to restart. The player can also start a New Game anytime during the game.
 
-![snake image](snakeee.png)
+## Game GUI
+
+![snake image](snakeee.PNG)
 
 
 
