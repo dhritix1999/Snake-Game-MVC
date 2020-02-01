@@ -7,10 +7,9 @@ componenets are hard-coded meaning I didn't use Design view.
 The player has to control the snake which appears on the screen using the arrow keys and has to navigatethe snake to eat the apple.
 When the snake eats the apple it grows in length and continues to grow in length as it devours more apples.
 
-To die the snake has to either hit the border or touch itself. Players are given 3 lives after which the game is over and the player has to restart.
-The player can also start a New Game anytime during the game.
+To die the snake has to either hit the border or touch itself. Players are given 3 lives after which the game is over and the player has to restart. The player can also start a New Game anytime during the game.
 
-![Project Image]
+![snake image](snakeee.png)
 
 
 
