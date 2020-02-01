@@ -1,0 +1,2 @@
+snakegame.CellType
+snakegame.Cell
