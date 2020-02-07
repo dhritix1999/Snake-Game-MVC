@@ -162,7 +162,7 @@ class GameModel {
         setLive(3);
         removeFruit();
         this.previousArrow = Arrow.LEFT;
-        this.previousArrow = Arrow.RIGHT;
+        this.currentArrow = Arrow.RIGHT;
     }
     
     public void NextStep(){

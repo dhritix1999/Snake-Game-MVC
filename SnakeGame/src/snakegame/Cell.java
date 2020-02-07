@@ -42,7 +42,7 @@ class Cell {
             case 1:
                 this.cellType = CellType.SNAKE;
                 break;
-            default:
+            case 2:
                 this.cellType = CellType.FRUIT;
                 break;
         }
