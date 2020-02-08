@@ -22,7 +22,7 @@ class GameModel {
     private int currentLive = 3;
     //false means game is paused
     private boolean isPlaying = false;
-    private int timeinteval = 500;
+    private int timeinteval = 1500;
     //this is a redundant variabele because it is SnakeCordinates.size()
     //but it is good to have this as a seperate variable
     private int snakeParts;
