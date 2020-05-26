@@ -1,4 +1,5 @@
 # Snake-Game-MVC
+
 To test my JAVA GUI skills I recreated the classic Snake game using a MVC (model - view - controller) software design pattern. 
 Implementing the snake game using the MVC pattern made my code a lot longer than other simpler implemntations. Additionally, all the GUI
 componenets are hard-coded meaning I didn't use Design view.
@@ -14,5 +15,5 @@ To die the snake has to either hit the border or touch itself. Players are given
 ![snake image](snakeee.PNG)
 
 
-
+Note: The game works fully but it doesnt follow the true MVC design pattern so the project is still a work in progress. 
 
